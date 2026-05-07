@@ -24,8 +24,8 @@
 ## ⚙️ Установка
 
 ```bash
-git clone https://github.com/<username>/<repo>.git
-cd <repo>
+git clone https://github.com/xelsing1991-maker/bot_vpn_redirect.git
+cd bot_vpn_redirect
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
