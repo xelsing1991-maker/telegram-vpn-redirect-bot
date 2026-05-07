@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+.env
+.env.*
+
+bot_tokens.json
+button_stats.json
+
+*.log
